@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayobami.agara
 - 👀 I’m interested in DevOps, IOT ( Multicloud Integration)
-- 🌱 I’m currently learning ...Linux, Python: Aws Services
+- 🌱 I’m vast with  ...Linux, Python: Aws Services, Migration 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me Ayo Agara on Linkeldn
 
 <!---
 ayo.ag-cloudreach/ayo.ag-cloudreach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
